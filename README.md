@@ -11,7 +11,7 @@
 ###### [Nanocamera](https://pypi.org/project/nanocamera/)
 
 ### Materials
-###### Nvidia Jetson Nano Developer Kit
-###### Raspberry Pi CameraModule V2
+###### [Nvidia Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+###### [Raspberry Pi CameraModule V2](https://www.raspberrypi.org/products/camera-module-v2/)
 ###### Some items to use Jetson Nano
 
