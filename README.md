@@ -20,7 +20,9 @@
 ##### Actually OpenCV comes as a default with ISO file that you can reach from [here](https://developer.nvidia.com/jetson-nano-sd-card-image) but if you face up with any problem you can use this command to install OpenCv
 
 ###### `pip3 install opencv-python`
+###### `import cv2`
 
 ##### Install this library to work with CSI camera and also you can reach more information from the link given above
 
 ###### `pip3 install nanocamera`
+###### `import nanocamera as nano`
