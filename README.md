@@ -1,16 +1,16 @@
 ## Nvidia Jetson Nano Developer Kit Projects / Tools / Configs
 
 ### Aim
-###### This repository includes AI, Robotics, Computer Vision projects and some configs about Jetson Nano.<br></br>
+###### This repository includes AI, Robotics, Computer Vision projects and some configs about Jetson Nano.<br></br><br></br>
 
 ### Libraries
 ###### [OpenCv 4.1.1](https://opencv.org/)
-###### [Nanocamera](https://pypi.org/project/nanocamera/)
+###### [Nanocamera](https://pypi.org/project/nanocamera/)<br></br><br></br>
 
 ### Materials
 ###### [Nvidia Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 ###### [Raspberry Pi CameraModule V2](https://www.raspberrypi.org/products/camera-module-v2/)
-###### Keyboard, mouse, USB wifi,etc. to use Jetson Nano
+###### Keyboard, mouse, USB wifi,etc. to use Jetson Nano<br></br><br></br>
 
 ### Setup
 
