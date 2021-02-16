@@ -5,12 +5,12 @@
 
 ### Libraries
 ###### [OpenCv 4.1.1](https://opencv.org/)
-###### [Nanocamera](https://pypi.org/project/nanocamera/)<br></br><br></br>
+###### [Nanocamera](https://pypi.org/project/nanocamera/)<br></br>
 
 ### Materials
 ###### [Nvidia Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 ###### [Raspberry Pi CameraModule V2](https://www.raspberrypi.org/products/camera-module-v2/)
-###### Keyboard, mouse, USB wifi, 5V mini fan, etc.<br></br><br></br>
+###### Keyboard, mouse, USB wifi, 5V mini fan, etc.<br></br>
 
 ### Setup
 
