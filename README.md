@@ -10,7 +10,7 @@
 ### Materials
 ###### [Nvidia Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 ###### [Raspberry Pi CameraModule V2](https://www.raspberrypi.org/products/camera-module-v2/)
-###### Keyboard, mouse, USB wifi, 5V mini fan, etc. to use Jetson Nano<br></br><br></br>
+###### Keyboard, mouse, USB wifi, 5V mini fan, etc.<br></br><br></br>
 
 ### Setup
 
