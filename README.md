@@ -1,7 +1,7 @@
 ## Nvidia Jetson Nano Developer Kit Projects / Tools / Configs
 
 ### Aim
-###### This repository includes AI, Robotics, Computer Vision projects and some configs about Jetson Nano.<br></br><br></br>
+###### This repository includes AI, Robotics, Computer Vision projects and some configs about Jetson Nano.<br></br>
 
 ### Libraries
 ###### [OpenCv 4.1.1](https://opencv.org/)
