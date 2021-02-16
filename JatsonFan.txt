@@ -1,10 +1,7 @@
-## Nvidia Jetson Nano Fan Settings
+Nvidia Jetson Nano Fan Settings which have 4 pins
 
-#### Used fan has 4 pin.
-
-#### At first, we should notice that frome latest updates, the fan will work after a specific temperature as default.
-
-#### But you can run the fun with this setting via adjusting the speed,etc.
+* At first, we should notice that frome latest updates, the fan will work after a specific temperature as default.
+  But you can run the fun with this setting via adjusting the speed,etc.
 
 
 `$sudo jetson_clocks`
