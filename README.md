@@ -14,7 +14,7 @@
 
 ### Setup
 
-##### Actually OpenCV comes as a default with ISO file that you can reach from [here](https://developer.nvidia.com/jetson-nano-sd-card-image) but if you face up with any problem you can use this command to install OpenCv
+##### Actually OpenCV comes as a default with ISO file that you can reach from [here](https://developer.nvidia.com/jetson-nano-sd-card-image) but if you face up with any problem you can use this command to install OpenCv of course after the installation of pip3
 
 ###### `pip3 install opencv-python`
 
